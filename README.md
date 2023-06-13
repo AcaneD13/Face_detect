@@ -1,3 +1,6 @@
+#Face Detection
+This the project face detection for roll-call attendance student. It was developed by Atibodee kuiprasert from AI-Builders in Arcane Whales.
+
 # Streamlit 
 
 # setup
